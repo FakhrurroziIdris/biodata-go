@@ -1,0 +1,18 @@
+{
+    "Murid_List" : [
+        {
+            "ID": 1,
+            "Nama": "Murid 1",
+            "Alamat": "Alamat 1",
+            "Pekerjaan": "Pekerjaan 1",
+            "Alasan": "Alasan 1"
+        },
+        {
+            "ID": 2,
+            "Nama": "Murid 2",
+            "Alamat": "Alamat 2",
+            "Pekerjaan": "Pekerjaan 2",
+            "Alasan": "Alasan 2"
+        }
+    ]
+}
